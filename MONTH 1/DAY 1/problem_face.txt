@@ -2,5 +2,7 @@ when i think about it,
 
 1. the NaN or blank cell so we have fill it using an mean().
 
+2.  But what about the Outliers.(How to Handle the Outliers?)
+
 
 Q. What about if i have some higher value or lower value then if i do mean then it show wrong answer so how to you solve it.
