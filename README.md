@@ -11,3 +11,15 @@ A practical, execution-first roadmap designed to build an interview-ready AI &am
 - Wrote simple data-cleaning functions
 - Documented learnings and concepts related to data and features
 
+
+## Day 2 – Pandas & Data Exploration  
+
+- Explored datasets using pandas for structured data analysis  
+- Inspected dataset schema, data types, and dimensions  
+- Performed filtering, sorting, and feature selection  
+- Applied aggregation and groupby for business insights  
+- Handled missing data and cleaned raw records  
+- Conducted exploratory data analysis on employee attrition data  
+- Created visualizations to highlight key attrition drivers  
+- Documented findings and learning notes  
+- Version-controlled all code and notebooks on GitHub 
