@@ -22,4 +22,16 @@ A practical, execution-first roadmap designed to build an interview-ready AI &am
 - Conducted exploratory data analysis on employee attrition data  
 - Created visualizations to highlight key attrition drivers  
 - Documented findings and learning notes  
-- Version-controlled all code and notebooks on GitHub 
+- Version-controlled all code and notebooks on GitHub
+
+## Day 3 – Data Visualization and Exploratory Data Analysis 
+
+- Implemented data visualization using Matplotlib and Seaborn  
+- Created histograms, bar plots, box plots, and count plots  
+- Analyzed feature distributions and attrition trends visually  
+- Compared demographic and compensation factors against attrition  
+- Performed correlation analysis and visualized heatmap  
+- Summarized visual insights and key business patterns  
+- Documented learnings and observations  
+- Version-controlled all notebooks, plots, and notes on GitHub  
+
