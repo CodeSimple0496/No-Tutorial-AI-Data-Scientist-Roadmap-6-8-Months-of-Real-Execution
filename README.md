@@ -33,5 +33,18 @@ A practical, execution-first roadmap designed to build an interview-ready AI &am
 - Performed correlation analysis and visualized heatmap  
 - Summarized visual insights and key business patterns  
 - Documented learnings and observations  
-- Version-controlled all notebooks, plots, and notes on GitHub  
+- Version-controlled all notebooks, plots, and notes on GitHub
+
+## Day 4 – Feature Engineering & Data Preprocessing  
+
+- Learned how to prepare raw data for machine learning models  
+- Handled categorical features using Label Encoding and One-Hot Encoding  
+- Applied feature scaling using Min-Max Scaling and Standardization  
+- Created new engineered features (AgeGroup, Experience buckets, YearsInCompany)  
+- Identified target variable (LeaveOrNot) and separated features and labels  
+- Performed train-test split for model preparation  
+- Built a mini preprocessing pipeline for cleaning, encoding, and scaling data  
+- Documented learnings and preprocessing concepts in notes  
+- Pushed notebooks, scripts, and notes to GitHub  
+
 
